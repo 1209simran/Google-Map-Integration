@@ -6,6 +6,7 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-geocode": "^0.2.0",
+    "react-geolocated": "^3.0.1",
     "react-google-autocomplete": "^1.1.2",
     "react-google-maps": "^9.4.5",
     "react-load-script": "0.0.6",
